@@ -1,0 +1,2 @@
+# vote-escrowed-token
+veToken
